@@ -92,3 +92,4 @@ streamlit run app.py
 Open your web browser to http://localhost:8501 to start auditing.
 
 ## 📸 Demo Screenshots
+![**_image_alt_**](https://github.com/Bikram2473/medical_auditor/blob/main/Screenshot%202026-05-28%20133603.png)</br>
