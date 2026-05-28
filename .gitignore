@@ -1,13 +1,13 @@
-# Environments
+# Passwords and API Keys
+.env
+
+# Virtual Environments
 venv/
 env/
 
-# Security / Secrets
-.env
-
-# Database Files
-*.db
-*.wal
+# Local Databases
+medical_lakehouse.db
+chroma_data/
 
 # Python Cache
 __pycache__/
